@@ -7,7 +7,7 @@
 		"args": { "VARIANT": "focal" }
 	},
 	"features": {
-		"codspace/privatefeatures#helloworld": {
+		"codspace/privatefeatures/helloworld": {
 			"greeting": "heyfirst"
 		}
 	}
